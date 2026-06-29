@@ -6,6 +6,7 @@ const quotes = [
     "Stay positive and be happy.",
     "Small steps every day lead to big results.",
     "Your only limit is your mind.",
+    "Every expert was once a beginner.",
     "Consistency is the key to success."
 ];
 
